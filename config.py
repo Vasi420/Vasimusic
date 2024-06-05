@@ -26,9 +26,9 @@ OWNER_ID = int(getenv("OWNER_ID", "1471469091"))
 
 START_STICKER_ID = getenv("START_STICKER_ID", "CAACAgUAAxkBAAIYJ2XDYrt9C1aT2TMAAVbvhu7GQt4pxQACOg4AAs7jGVZZ_1ODkCxOcx4E")
 
-MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "Thava X Music")
+MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "vibemachine")
 
-POWERED_BY = getenv("POWERED_BY", "˹ 𝐓ʜᴀᴠᴀ ✘ 𝐌ᴜꜱɪᴄ ˼")
+POWERED_BY = getenv("POWERED_BY", "˹ 𝐕ɪʙᴇ ✘ 𝐌ᴀᴄʜɪɴᴇ ˼")
 
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 
@@ -36,15 +36,15 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/Thava-OX/ThavaXMusic",
+    "https://github.com/Vasi420/Vasimusic",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "Main")
 GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/TBNBotsNetwork")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/TBNBotsNetworkSupport")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Anbe_Sivam_Bots")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/the_comedy_bar")
 
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", None))
 AUTO_SUGGESTION_MODE = getenv("AUTO_SUGGESTION_MODE", "True")
@@ -86,13 +86,13 @@ clean = {}
 autoclean = []
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://telegra.ph/file/4901ceb88125d76898dad.jpg"
+    "START_IMG_URL", "https://te.legra.ph/file/ddeaa7059c6e36aa5278d.jpg"
 )
 PING_IMG_URL = getenv(
     "PING_IMG_URL", "https://telegra.ph/file/30577470793677e5408ee.jpg"
 )
 PLAYLIST_IMG_URL = "https://telegra.ph/file/7db32a17b15440fa88f91.jpg"
-STATS_IMG_URL = "https://telegra.ph/file/02af26494524244cf83d0.jpg"
+STATS_IMG_URL = "https://te.legra.ph/file/ddeaa7059c6e36aa5278d.jpg"
 TELEGRAM_AUDIO_URL = "https://telegra.ph/file/fa144f06d6d024877edda.jpg"
 TELEGRAM_VIDEO_URL = "https://telegra.ph/file/fa144f06d6d024877edda.jpg"
 STREAM_IMG_URL = "https://telegra.ph/file/03efec694e41e891b29dc.jpg"
