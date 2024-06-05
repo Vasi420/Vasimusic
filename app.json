@@ -1,7 +1,7 @@
 {
-    "name": "Thava X Music [V2]",
+    "name": "vibemachine",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://telegra.ph/file/bfbb263bade7eb110e8aa.jpg",
+    "logo": "https://te.legra.ph/file/a60bd954c7cf3a69cea07.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -69,7 +69,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/Thava-OX/ThavaXMusic",
+        "value": "https://github.com/Vasi420/Vasimusic",
         "required": true
       },
       "UPSTREAM_BRANCH": {
