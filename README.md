@@ -23,7 +23,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
-<p align="center"><a href="https://t.me/TBNBotsNetwork"><img src="(https://te.legra.ph/file/65c62019175c32c93bdaa.jpg)"></a></p>
+<p align="center"><a href="https://t.me/TBNBotsNetwork"><img src="https://te.legra.ph/file/65c62019175c32c93bdaa.jpg"></a></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
